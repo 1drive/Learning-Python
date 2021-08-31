@@ -1,0 +1,1 @@
+Hearthstone을 플레이하듯 Python을 배우는 방법. 물론 그런 건 없습니다.
