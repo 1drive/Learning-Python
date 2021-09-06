@@ -1,7 +1,6 @@
 ### 1065 한수
 ### https://www.acmicpc.net/problem/1065
 import sys
-import math
 N = int(sys.stdin.readline())
 Hansu = 0
 for i in range(N):
