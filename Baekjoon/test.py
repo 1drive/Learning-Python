@@ -1,1 +1,4 @@
-print(ord('z')-96)
+i = 2
+k = 8
+k //= i
+print(k)
